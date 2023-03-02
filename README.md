@@ -1,6 +1,6 @@
 # Design-and-analysis-of-algorithms
 
-In this repository i will upload every single problem I have solved that has been given to us in the desing and analysis of algorithms course. Most of the problems have been taken from leetcode.  
+In this repository i will upload every single problem I have solved that has been given to us in the design and analysis of algorithms course. Most of the problems have been taken from leetcode and I am using the LeetHub extension to automatically push into this repo.  
 
 All of the solutions are mine and I haven't been looking in the internet for help. If that's not true I will always specify it. 
 

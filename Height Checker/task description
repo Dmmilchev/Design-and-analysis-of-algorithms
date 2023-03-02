@@ -6,4 +6,4 @@ in line (0-indexed).
 
 Return the number of indices where heights[i] != expected[i].
 
-solutions beats: 65% of submissions
+solution beats: 65% of submissions
